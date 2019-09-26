@@ -3904,11 +3904,13 @@ input, select, textarea {
 		margin-left: 1em;
 		margin-right: 1em;
 		width: 22em;
+		border-radius: 5px;
 	}
 	.pics222 {
 		margin-left: 1em;
 		margin-right: 1em;
 		width: 22em;
+		border-radius: 5px;
 	}
 
 	#banner2 {
@@ -4021,4 +4023,7 @@ input, select, textarea {
 			justify-content: center;
 			align-items: center;
 		}
+.newA {
+	border-bottom: none;
+}
 
